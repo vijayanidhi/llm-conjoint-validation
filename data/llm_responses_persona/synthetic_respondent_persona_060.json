@@ -1,0 +1,30 @@
+{
+  "respondent_id": 60,
+  "y": [
+    1,
+    4,
+    3,
+    1,
+    2,
+    3,
+    4,
+    1,
+    1,
+    4,
+    1,
+    4,
+    3,
+    3,
+    4,
+    3
+  ],
+  "persona": {
+    "respondent_id": 60,
+    "age": 36,
+    "income_bracket": "$30,000-$60,000/year",
+    "photography_experience": "a complete beginner who has never owned a dedicated camera",
+    "tech_savviness": "very tech-savvy, enjoys researching specs and new features",
+    "budget_mindset": "not very price-sensitive, prioritizes features and brand over cost",
+    "description": "You are 36 years old, with a household income of $30,000-$60,000/year. You are a complete beginner who has never owned a dedicated camera. You are very tech-savvy, enjoys researching specs and new features. When shopping, you are not very price-sensitive, prioritizes features and brand over cost."
+  }
+}

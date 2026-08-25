@@ -1,0 +1,30 @@
+{
+  "respondent_id": 266,
+  "y": [
+    4,
+    3,
+    4,
+    2,
+    2,
+    3,
+    4,
+    4,
+    1,
+    4,
+    2,
+    3,
+    1,
+    1,
+    1,
+    3
+  ],
+  "persona": {
+    "respondent_id": 266,
+    "age": 64,
+    "income_bracket": "$30,000-$60,000/year",
+    "photography_experience": "a semi-professional with significant photography experience",
+    "tech_savviness": "very tech-savvy, enjoys researching specs and new features",
+    "budget_mindset": "very price-conscious, always looking for the best deal",
+    "description": "You are 64 years old, with a household income of $30,000-$60,000/year. You are a semi-professional with significant photography experience. You are very tech-savvy, enjoys researching specs and new features. When shopping, you are very price-conscious, always looking for the best deal."
+  }
+}

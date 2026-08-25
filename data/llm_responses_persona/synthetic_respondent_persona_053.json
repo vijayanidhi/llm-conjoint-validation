@@ -1,0 +1,30 @@
+{
+  "respondent_id": 53,
+  "y": [
+    1,
+    1,
+    4,
+    2,
+    1,
+    3,
+    4,
+    3,
+    4,
+    2,
+    1,
+    4,
+    2,
+    3,
+    3,
+    4
+  ],
+  "persona": {
+    "respondent_id": 53,
+    "age": 29,
+    "income_bracket": "$60,000-$100,000/year",
+    "photography_experience": "a semi-professional with significant photography experience",
+    "tech_savviness": "not very tech-savvy, prefers simple and familiar products",
+    "budget_mindset": "very price-conscious, always looking for the best deal",
+    "description": "You are 29 years old, with a household income of $60,000-$100,000/year. You are a semi-professional with significant photography experience. You are not very tech-savvy, prefers simple and familiar products. When shopping, you are very price-conscious, always looking for the best deal."
+  }
+}

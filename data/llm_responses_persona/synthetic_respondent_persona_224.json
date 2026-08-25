@@ -1,0 +1,30 @@
+{
+  "respondent_id": 224,
+  "y": [
+    2,
+    4,
+    3,
+    1,
+    4,
+    4,
+    3,
+    4,
+    2,
+    1,
+    2,
+    3,
+    2,
+    4,
+    2,
+    4
+  ],
+  "persona": {
+    "respondent_id": 224,
+    "age": 27,
+    "income_bracket": "$100,000-$150,000/year",
+    "photography_experience": "a complete beginner who has never owned a dedicated camera",
+    "tech_savviness": "not very tech-savvy, prefers simple and familiar products",
+    "budget_mindset": "not very price-sensitive, prioritizes features and brand over cost",
+    "description": "You are 27 years old, with a household income of $100,000-$150,000/year. You are a complete beginner who has never owned a dedicated camera. You are not very tech-savvy, prefers simple and familiar products. When shopping, you are not very price-sensitive, prioritizes features and brand over cost."
+  }
+}

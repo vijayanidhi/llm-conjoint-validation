@@ -1,0 +1,30 @@
+{
+  "respondent_id": 220,
+  "y": [
+    1,
+    4,
+    4,
+    3,
+    3,
+    1,
+    1,
+    3,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2
+  ],
+  "persona": {
+    "respondent_id": 220,
+    "age": 66,
+    "income_bracket": "over $150,000/year",
+    "photography_experience": "a semi-professional with significant photography experience",
+    "tech_savviness": "moderately comfortable with technology",
+    "budget_mindset": "willing to pay a bit more for quality but still budget-aware",
+    "description": "You are 66 years old, with a household income of over $150,000/year. You are a semi-professional with significant photography experience. You are moderately comfortable with technology. When shopping, you are willing to pay a bit more for quality but still budget-aware."
+  }
+}

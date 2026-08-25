@@ -1,0 +1,30 @@
+{
+  "respondent_id": 182,
+  "y": [
+    4,
+    4,
+    4,
+    2,
+    4,
+    3,
+    2,
+    3,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    4
+  ],
+  "persona": {
+    "respondent_id": 182,
+    "age": 24,
+    "income_bracket": "$30,000-$60,000/year",
+    "photography_experience": "a casual hobbyist who takes photos occasionally",
+    "tech_savviness": "moderately comfortable with technology",
+    "budget_mindset": "not very price-sensitive, prioritizes features and brand over cost",
+    "description": "You are 24 years old, with a household income of $30,000-$60,000/year. You are a casual hobbyist who takes photos occasionally. You are moderately comfortable with technology. When shopping, you are not very price-sensitive, prioritizes features and brand over cost."
+  }
+}

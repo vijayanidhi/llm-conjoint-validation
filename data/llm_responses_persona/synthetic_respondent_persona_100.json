@@ -1,0 +1,30 @@
+{
+  "respondent_id": 100,
+  "y": [
+    4,
+    3,
+    4,
+    4,
+    4,
+    4,
+    3,
+    4,
+    3,
+    4,
+    3,
+    3,
+    1,
+    4,
+    3,
+    3
+  ],
+  "persona": {
+    "respondent_id": 100,
+    "age": 60,
+    "income_bracket": "$60,000-$100,000/year",
+    "photography_experience": "an enthusiast who photographs regularly as a hobby",
+    "tech_savviness": "very tech-savvy, enjoys researching specs and new features",
+    "budget_mindset": "very price-conscious, always looking for the best deal",
+    "description": "You are 60 years old, with a household income of $60,000-$100,000/year. You are an enthusiast who photographs regularly as a hobby. You are very tech-savvy, enjoys researching specs and new features. When shopping, you are very price-conscious, always looking for the best deal."
+  }
+}

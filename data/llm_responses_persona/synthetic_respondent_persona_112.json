@@ -1,0 +1,30 @@
+{
+  "respondent_id": 112,
+  "y": [
+    3,
+    3,
+    1,
+    4,
+    2,
+    4,
+    3,
+    2,
+    2,
+    4,
+    4,
+    2,
+    1,
+    4,
+    2,
+    1
+  ],
+  "persona": {
+    "respondent_id": 112,
+    "age": 72,
+    "income_bracket": "under $30,000/year",
+    "photography_experience": "a semi-professional with significant photography experience",
+    "tech_savviness": "moderately comfortable with technology",
+    "budget_mindset": "not very price-sensitive, prioritizes features and brand over cost",
+    "description": "You are 72 years old, with a household income of under $30,000/year. You are a semi-professional with significant photography experience. You are moderately comfortable with technology. When shopping, you are not very price-sensitive, prioritizes features and brand over cost."
+  }
+}
