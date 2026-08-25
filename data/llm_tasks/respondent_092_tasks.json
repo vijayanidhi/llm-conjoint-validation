@@ -1,0 +1,594 @@
+[
+  {
+    "task_number": 1,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher pixel count", "higher zoom", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Canon camera, $279, with: higher pixel count, higher zoom, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "higher zoom", "swivel display"],
+        "price_usd": 179,
+        "description": "Sony camera, $179, with: higher pixel count, higher zoom, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": "video capture capability",
+        "price_usd": 79,
+        "description": "Canon camera, $79, with: video capture capability"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": "video capture capability",
+        "price_usd": 229,
+        "description": "Panasonic camera, $229, with: video capture capability"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 2,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": "higher pixel count",
+        "price_usd": 79,
+        "description": "Sony camera, $79, with: higher pixel count"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher pixel count", "video capture capability", "wifi connectivity"],
+        "price_usd": 179,
+        "description": "Panasonic camera, $179, with: higher pixel count, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Nikon camera, $129, with: video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher zoom", "video capture capability"],
+        "price_usd": 229,
+        "description": "Canon camera, $229, with: higher zoom, video capture capability"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 3,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher zoom", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Panasonic camera, $279, with: higher zoom, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher pixel count", "higher zoom", "video capture capability", "swivel display"],
+        "price_usd": 179,
+        "description": "Canon camera, $179, with: higher pixel count, higher zoom, video capture capability, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "higher zoom", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Nikon camera, $129, with: higher pixel count, higher zoom, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher pixel count", "video capture capability", "swivel display"],
+        "price_usd": 79,
+        "description": "Panasonic camera, $79, with: higher pixel count, video capture capability, swivel display"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 4,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "video capture capability", "wifi connectivity"],
+        "price_usd": 79,
+        "description": "Sony camera, $79, with: higher pixel count, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": "higher zoom",
+        "price_usd": 129,
+        "description": "Sony camera, $129, with: higher zoom"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": "higher pixel count",
+        "price_usd": 179,
+        "description": "Nikon camera, $179, with: higher pixel count"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher zoom", "wifi connectivity"],
+        "price_usd": 229,
+        "description": "Canon camera, $229, with: higher zoom, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 5,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Canon camera, $279, with: video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 179,
+        "description": "Sony camera, $179, with: higher pixel count, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": {},
+        "price_usd": 129,
+        "description": "Panasonic camera, $129, with: no additional features"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["video capture capability", "swivel display"],
+        "price_usd": 79,
+        "description": "Canon camera, $79, with: video capture capability, swivel display"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 6,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher pixel count", "video capture capability"],
+        "price_usd": 129,
+        "description": "Canon camera, $129, with: higher pixel count, video capture capability"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher zoom", "video capture capability", "wifi connectivity"],
+        "price_usd": 79,
+        "description": "Panasonic camera, $79, with: higher zoom, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "higher zoom", "swivel display", "wifi connectivity"],
+        "price_usd": 229,
+        "description": "Sony camera, $229, with: higher pixel count, higher zoom, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": {},
+        "price_usd": 279,
+        "description": "Sony camera, $279, with: no additional features"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 7,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher zoom", "video capture capability"],
+        "price_usd": 279,
+        "description": "Sony camera, $279, with: higher zoom, video capture capability"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher pixel count", "swivel display", "wifi connectivity"],
+        "price_usd": 229,
+        "description": "Panasonic camera, $229, with: higher pixel count, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher zoom", "swivel display", "wifi connectivity"],
+        "price_usd": 79,
+        "description": "Nikon camera, $79, with: higher zoom, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher zoom", "video capture capability", "wifi connectivity"],
+        "price_usd": 179,
+        "description": "Panasonic camera, $179, with: higher zoom, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 8,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": "higher zoom",
+        "price_usd": 229,
+        "description": "Panasonic camera, $229, with: higher zoom"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": "higher pixel count",
+        "price_usd": 79,
+        "description": "Sony camera, $79, with: higher pixel count"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher zoom", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Canon camera, $129, with: higher zoom, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher zoom", "swivel display"],
+        "price_usd": 279,
+        "description": "Nikon camera, $279, with: higher zoom, swivel display"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 9,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": "wifi connectivity",
+        "price_usd": 129,
+        "description": "Panasonic camera, $129, with: wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher pixel count", "swivel display"],
+        "price_usd": 179,
+        "description": "Canon camera, $179, with: higher pixel count, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": {},
+        "price_usd": 279,
+        "description": "Nikon camera, $279, with: no additional features"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "higher zoom", "swivel display", "wifi connectivity"],
+        "price_usd": 229,
+        "description": "Nikon camera, $229, with: higher pixel count, higher zoom, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 10,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher zoom", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Sony camera, $279, with: higher zoom, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": "swivel display",
+        "price_usd": 229,
+        "description": "Panasonic camera, $229, with: swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Nikon camera, $129, with: higher pixel count, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher zoom", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 179,
+        "description": "Canon camera, $179, with: higher zoom, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 11,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher zoom", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Panasonic camera, $129, with: higher zoom, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher zoom", "video capture capability"],
+        "price_usd": 79,
+        "description": "Sony camera, $79, with: higher zoom, video capture capability"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "video capture capability", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Nikon camera, $279, with: higher pixel count, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "higher zoom", "swivel display"],
+        "price_usd": 229,
+        "description": "Nikon camera, $229, with: higher pixel count, higher zoom, swivel display"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 12,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher pixel count", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Canon camera, $279, with: higher pixel count, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "higher zoom", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Sony camera, $279, with: higher pixel count, higher zoom, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": "higher pixel count",
+        "price_usd": 229,
+        "description": "Panasonic camera, $229, with: higher pixel count"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher zoom", "video capture capability", "wifi connectivity"],
+        "price_usd": 179,
+        "description": "Nikon camera, $179, with: higher zoom, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 13,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher pixel count", "swivel display"],
+        "price_usd": 129,
+        "description": "Canon camera, $129, with: higher pixel count, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher pixel count", "higher zoom", "swivel display"],
+        "price_usd": 79,
+        "description": "Panasonic camera, $79, with: higher pixel count, higher zoom, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "swivel display"],
+        "price_usd": 179,
+        "description": "Nikon camera, $179, with: higher pixel count, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "higher zoom"],
+        "price_usd": 279,
+        "description": "Sony camera, $279, with: higher pixel count, higher zoom"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 14,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 179,
+        "description": "Sony camera, $179, with: video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher pixel count", "higher zoom"],
+        "price_usd": 79,
+        "description": "Panasonic camera, $79, with: higher pixel count, higher zoom"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "swivel display"],
+        "price_usd": 229,
+        "description": "Nikon camera, $229, with: higher pixel count, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["higher zoom", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Canon camera, $129, with: higher zoom, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 15,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["higher zoom", "video capture capability", "wifi connectivity"],
+        "price_usd": 229,
+        "description": "Panasonic camera, $229, with: higher zoom, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "higher zoom", "video capture capability"],
+        "price_usd": 79,
+        "description": "Nikon camera, $79, with: higher pixel count, higher zoom, video capture capability"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher pixel count", "higher zoom", "video capture capability", "swivel display", "wifi connectivity"],
+        "price_usd": 129,
+        "description": "Sony camera, $129, with: higher pixel count, higher zoom, video capture capability, swivel display, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Canon",
+        "features": ["video capture capability", "wifi connectivity"],
+        "price_usd": 279,
+        "description": "Canon camera, $279, with: video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  },
+  {
+    "task_number": 16,
+    "alternatives": [
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "higher zoom", "video capture capability", "wifi connectivity"],
+        "price_usd": 229,
+        "description": "Nikon camera, $229, with: higher pixel count, higher zoom, video capture capability, wifi connectivity"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Sony",
+        "features": ["higher zoom", "swivel display"],
+        "price_usd": 79,
+        "description": "Sony camera, $79, with: higher zoom, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Panasonic",
+        "features": ["video capture capability", "swivel display"],
+        "price_usd": 179,
+        "description": "Panasonic camera, $179, with: video capture capability, swivel display"
+      },
+      {
+        "is_outside_good": false,
+        "brand": "Nikon",
+        "features": ["higher pixel count", "swivel display"],
+        "price_usd": 129,
+        "description": "Nikon camera, $129, with: higher pixel count, swivel display"
+      },
+      {
+        "is_outside_good": true,
+        "description": "None of these (no purchase)"
+      }
+    ]
+  }
+]
