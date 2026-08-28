@@ -4,6 +4,8 @@
 
 **Status:** Core investigation complete. Real-data baseline, no-persona LLM arm, and persona-conditioned LLM arm have all been fit and compared. Headline finding below. Outstanding work (mixed logit robustness check, prompt-variation sensitivity, formal writeup) is listed at the end as future work.
 
+**Author:** Vijayanidhi Vidhiventhan Pillai
+
 **Advisor:** Prof. Joseph Pancras (Associate Professor of Marketing, UConn)
 
 ---
